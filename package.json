@@ -1,0 +1,22 @@
+{
+  "name": "eventexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoriamihai/CursNode.js.git"
+  },
+  "keywords": [
+    "eventnodejs"
+  ],
+  "author": "tora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victoriamihai/CursNode.js/issues"
+  },
+  "homepage": "https://github.com/victoriamihai/CursNode.js#readme"
+}
