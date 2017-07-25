@@ -1,0 +1,18 @@
+{
+  "name": "unittestexample",
+  "version": "1.0.0",
+  "description": "tdd with mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha", 
+    "start":"node ./index.js"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "tora",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.0"
+  }
+}
