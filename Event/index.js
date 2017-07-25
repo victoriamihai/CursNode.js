@@ -26,6 +26,8 @@ eventEmitter.on('data_received', function(){
 
 // Fire the connection event 
 //generam un event (emitem un event)
+//putem avea un handler pe eveniment
+
 eventEmitter.emit('connection');
 
 console.log("Program Ended.");
