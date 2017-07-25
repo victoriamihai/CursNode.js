@@ -1,0 +1,15 @@
+{
+  "name": "processexample",
+  "version": "1.0.0",
+  "description": "pachetul are si cuvantul example pt ca process este un core module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "process",
+    "example"
+  ],
+  "author": "tora",
+  "license": "ISC"
+}
